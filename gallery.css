@@ -1,0 +1,43 @@
+.navbar {
+	background-color: #2F3D4E;
+}
+
+.jumbotron {
+	color: #2F3D4E;
+}
+
+
+body {
+	padding-top: 70px;
+}
+
+.navbar-default .navbar-nav>li>a {
+    color: RGBA(255, 255, 255, 0.70);
+}
+
+.navbar-default .navbar-nav>li>a:hover {
+    color: white;
+}
+
+.navbar-default .navbar-brand {
+    color: #EEEEEE;
+}
+
+.thumbnail>img:hover {
+	opacity: 0.8;
+}
+
+.overlay-test {
+    background: RGBA(47, 61, 78, 1.00);
+/*    overflow: hidden;
+    height: 100%;*/
+    z-index: 2;
+
+}
+
+
+
+/*testing*/
+
+
+
